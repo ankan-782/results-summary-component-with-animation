@@ -6,13 +6,12 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -27,15 +26,15 @@ Users should be able to:
 
 ### Screenshots
 
-![screenshot 1](./assets/images/screenshots/screenshot1.png)
-![screenshot 2](./assets/images/screenshots/screenshot2.png)
-![screenshot 3](./assets/images/screenshots/screenshot3.png)
-![screenshot 4](./assets/images/screenshots/screenshot4.png)
+![screenshot 1](./public/assets/images/screenshots/screenshot1.png)
+![screenshot 2](./public/assets/images/screenshots/screenshot2.png)
+![screenshot 3](./public/assets/images/screenshots/screenshot3.png)
+![screenshot 4](./public/assets/images/screenshots/screenshot4.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github url](https://github.com/ankan-782/results-summary-component-with-animation)
+- Live Site URL: [live link](https://results-summary-card-animation-rav.netlify.app/)
 
 ## My process
 
@@ -52,20 +51,9 @@ Users should be able to:
 
 ### What I learned
 
-Here I basically learned how to deal with animation and all related things. How to write all keyframe etc.
-examples are given below:
+- Here I first time tried something interesting card sliding transition effect with translate property. Please look at the live site.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-And I also learned "another way" of how to include dynamic html element with the help of ```<template>``` html element. What To include dynamically with js, simply has to put inside it in the ```<template></template>``` markup. The ```<template></template>``` markup doesn't show on the browser.
+- And I also learned "another way" of how to include dynamic html element with the help of ```<template>``` html element. What To include dynamically with js, simply has to put inside it in the ```<template></template>``` markup. The ```<template></template>``` markup doesn't show on the browser.
 
 example:
 
@@ -110,13 +98,8 @@ data.forEach(element => {
 
 I want to brush up little more to animations. That would be the focusing area for my future projects. I am not completely comfortable with it.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Avijit Roy](https://avijit-roy-portfolio.netlify.app/)
+- Frontend Mentor - [@ankan-782](https://www.frontendmentor.io/profile/ankan-782)
+- Twitter - [@AvijitAnkan](https://twitter.com/AvijitAnkan)

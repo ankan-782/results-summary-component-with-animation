@@ -81,7 +81,7 @@ svg {
     margin-inline: auto;
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .container {
         padding-inline: var(--container-padding);
     }
@@ -100,7 +100,7 @@ svg {
     gap: 0.5rem;
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .grid-flow {
         gap: 1rem;
     }
@@ -134,7 +134,7 @@ body {
     color: var(--clr-neutral-700);
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     body {
         min-height: 100vh;
         display: grid;
@@ -146,7 +146,7 @@ body {
     font-weight: var(--fw-bold);
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .section-title {
         font-size: var(--fs-600);
         font-weight: var(--fw-bold);
@@ -160,7 +160,7 @@ body {
     position: relative;
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .result-summary {
         --padding: 2.5rem;
 
@@ -182,7 +182,7 @@ body {
     padding: var(--padding) calc(var(--padding) * 1.5);
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .results {
         max-width: 368px;
         border-radius: var(--border-radius);
@@ -203,13 +203,13 @@ body {
     font-weight: var(--fw-semibold);
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .result-score {
         --circle-width: 12.5rem;
     }
 }
 
-@media (max-width: 36em) {
+@media (max-width: 48em) {
     .result-score {
         font-size: var(--fs-300);
     }
@@ -223,7 +223,7 @@ body {
     line-height: 1;
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .result-score span {
         font-size: var(--fs-900);
     }
@@ -233,7 +233,7 @@ body {
     color: hsla(var(--clr-neutral-hsl-100), 0.65);
 }
 
-@media (max-width: 36em) {
+@media (max-width: 48em) {
     .result-comment {
         font-size: var(--fs-300);
     }
@@ -245,7 +245,7 @@ body {
     font-weight: var(--fw-bold);
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .result-rank {
         font-size: var(--fs-650);
     }
@@ -267,7 +267,7 @@ body {
     transition: all 0.5s ease-out 0.5s;
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .summary {
         bottom: 0;
         visibility: visible;
@@ -280,7 +280,7 @@ body {
     transform: translateY(calc(100% - 52px));
 }
 
-@media (min-width: 36em) {
+@media (min-width: 48em) {
     .summary-visible {
         transform: translateX(calc(100%));
     }
@@ -312,7 +312,7 @@ body {
     border-radius: 0.7rem;
 }
 
-@media (max-width: 36em) {
+@media (max-width: 48em) {
     .summary-item {
         font-size: var(--fs-300);
     }
