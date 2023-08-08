@@ -5,9 +5,10 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshots)
   - [Links](#links)
+  - [The challenge](#the-challenge)
+  - [How to run](#how-to-run)
+  - [Screenshot](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -15,6 +16,11 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 
 ## Overview
+
+### Links
+
+- Solution URL: [Github url](https://github.com/ankan-782/results-summary-component-with-animation)
+- Live Site URL: [live link](https://results-summary-card-animation-rav.netlify.app/)
 
 ### The challenge
 
@@ -24,17 +30,38 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - See animation of element
 
+### How to run
+
+- Clone the repository:
+
+```bash
+git clone https://github.com/ankan-782/results-summary-component-with-animation.git
+```
+
+- Navigate to the project directory:
+
+```bash
+cd results-summary-component-with-animation
+```
+
+- Install dependencies:
+
+```bash
+npm install
+```
+
+- run the project:
+
+```bash
+npm run dev
+```
+
 ### Screenshots
 
 ![screenshot 1](./public/assets/images/screenshots/screenshot1.png)
 ![screenshot 2](./public/assets/images/screenshots/screenshot2.png)
 ![screenshot 3](./public/assets/images/screenshots/screenshot3.png)
 ![screenshot 4](./public/assets/images/screenshots/screenshot4.png)
-
-### Links
-
-- Solution URL: [Github url](https://github.com/ankan-782/results-summary-component-with-animation)
-- Live Site URL: [live link](https://results-summary-card-animation-rav.netlify.app/)
 
 ## My process
 
@@ -44,7 +71,7 @@ Users should be able to:
 - Vanilla JS for interacting
 - Vanilla CSS for styling
 - CSS custom properties
-- Flexbox
+- Flex-box
 - CSS Grid
 - Animation
 - Mobile-first workflow
